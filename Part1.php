@@ -55,7 +55,7 @@ foreach ($people as $value) {
 
 <script>
 function myFunction() {
-//  document.getElementById("demo").innerHTML = alert("hello");
+//  alert("hello");
   var val = document.getElementById("email");
   alert("Hello," + " " +  val.value + "");
 }
